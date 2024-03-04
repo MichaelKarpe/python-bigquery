@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.19.0](https://github.com/googleapis/python-bigquery/compare/v3.18.0...v3.19.0) (2024-03-04)
+
+
+### Features
+
+* Support RANGE query parameters ([#1827](https://github.com/googleapis/python-bigquery/issues/1827)) ([b359a9a](https://github.com/googleapis/python-bigquery/commit/b359a9a55936a759a36aa69c5e5b014685e1fca6))
+
 ## [3.18.0](https://github.com/googleapis/python-bigquery/compare/v3.17.2...v3.18.0) (2024-02-29)
 
 
